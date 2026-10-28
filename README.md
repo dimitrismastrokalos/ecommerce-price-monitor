@@ -30,7 +30,7 @@ python main.py
 🔥 Get the PRO Version (Automated Alerts & Multi-Product Tracker)
 Need to monitor dozens of products and get notified the moment a price drops?
 
-👉 [Download PRO Version on Gumroad](https://dimitrismastro.gumroad.com/l/ecommerce-price-monitor)19€
+👉 [Download PRO Version on Gumroad](https://dimitrismastro.gumroad.com/l/ecommerce-price-monitor) 19€
 
 ⚡ PRO Features:
 🔔 Instant Telegram & Email Alerts: Receive immediate notifications when a product price drops below your target threshold.
