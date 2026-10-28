@@ -16,7 +16,6 @@ A fast, lightweight Python script designed to track product prices, page titles,
 ## ⚙️ Installation & Usage
 
 1. Clone this repository
-
 git clone [https://github.com/dimitrismastrokalos/ecommerce-price-monitor.git](https://github.com/dimitrismastrokalos/ecommerce-price-monitor.git)
 cd ecommerce-price-monitor
 
